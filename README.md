@@ -8,8 +8,18 @@
 - #### tf model built using CNN architecture
 - #### Website built in ReactJS to send X-rays images as http request to backend
 - #### Backend built using FastAPI framework(mostly used for numpy convertion of the image data)
-- #### tf-serving server created using tensorflow/serving docker image (deployed the project file to this image) for serving the http request from website. This server is basically created to control the version management of the model.
-- #### Created GCP bucket in google cloud for uploading the model to the cloud and using google sdk for uploading the function in the cloud to serve the requests coming from android app
+- #### tf-serving server created using tensorflow/serving docker image (deployed the project file to this image) for serving the http request from website. This server is basically created to control the version management of the models.
+- #### Created GCP bucket in google cloud for uploading the model to the cloud and using google sdk for uploading the function to serve the requests coming from android app
 - #### Created an android app to diagnoising/predicting the class/disease of the uploaded X-Ray image file.
+
+  ### Website and App Screenshot
+ ![chestxray_scrnshot2](https://github.com/guddushah/Covid19-Pneumonia-diagnosis-using-chest-XRays-Deep-Learning/assets/40028193/4e1765b8-35c3-43ea-8a6d-f0ab149d90f6)
+
+  <img src="https://github.com/guddushah/Covid19-Pneumonia-diagnosis-using-chest-XRays-Deep-Learning/assets/40028193/e4ab42bc-3902-4006-9d32-c39f977bdbaf" width="350">
+
+  ### Website Demo
+  
+
+
   
 
