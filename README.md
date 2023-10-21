@@ -18,7 +18,6 @@
   <img src="https://github.com/guddushah/Covid19-Pneumonia-diagnosis-using-chest-XRays-Deep-Learning/assets/40028193/e4ab42bc-3902-4006-9d32-c39f977bdbaf" width="350">
 
   ### Website Demo
-  https://github.com/guddushah/Covid19-Pneumonia-diagnosis-using-chest-XRays-Deep-Learning/assets/40028193/7461908d-7683-4cf7-a0f6-5339cfafbc01
 
   
 
